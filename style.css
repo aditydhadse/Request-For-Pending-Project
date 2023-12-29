@@ -1,0 +1,15 @@
+h1{
+    font-family:cursive;
+    background-color:rgb(73, 233, 235);
+    padding: 20px;
+}
+
+h1:hover{
+    background-color: #2b75d6;
+    border-radius: 20px;
+    color: white;
+}
+
+h2{
+    font-family: sans-serif;
+}
